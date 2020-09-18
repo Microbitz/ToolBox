@@ -1,0 +1,5 @@
+rojo 		red		紅	Vcc
+negro 		black		黑	0V
+verde 		green		綠      A
+blanco 		white		白      B
+pantalla	shield 		屏蔽    Gnd
